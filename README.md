@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## 💻 LeetCode Profile
 
-![LeetCode Stats](https://leetcode.card.workers.dev/LeetCode?theme=dark&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.ObserverUA/LeetCode?theme=dark&font=baloo&extension=null)
 
 
 ## 📫 Connect with Me
