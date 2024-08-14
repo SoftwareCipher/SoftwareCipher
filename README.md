@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## 💻 LeetCode Profile
 
-![Leetcode Stats](https://leetcode.com/u/ObserverUA/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
 
 
 ## 📫 Connect with Me
