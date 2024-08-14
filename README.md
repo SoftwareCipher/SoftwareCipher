@@ -39,10 +39,7 @@ Here are some ideas to get you started:
 
 ## 💻 LeetCode Profile
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ObserverUA/)
-
-![LeetCode Stats](https://leetcode.card.workers.dev/LeetCode?theme=dark&font=baloo&extension=null)
-
+![LeetCode Stats](https://leetcode.card.workers.dev/LeetCode?theme=nord&font=baloo&extension=null)(https://leetcode.com/u/ObserverUA/)
 
 
 ## 📫 Connect with Me
