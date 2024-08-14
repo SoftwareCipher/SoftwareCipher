@@ -2,8 +2,6 @@
 
 ![Hello World! Welcome to my GitHub profile!](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20%20%20World!%20%20%20&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20&descAlignY=51&descAlign=62)
 
-**SoftwareCipher/SoftwareCipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
