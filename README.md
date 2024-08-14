@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SoftwareCipher)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SoftwareCipher)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=SoftwareCipher)
