@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## 💻 LeetCode Profile
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ObserverUA/)
+![Leetcode Stats](https://leetcode.com/u/ObserverUA/lapor?ext=heatmap)
 
 
 ## 📫 Connect with Me
