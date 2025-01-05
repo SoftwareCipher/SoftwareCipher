@@ -26,7 +26,7 @@
 
 ## 💻 LeetCode Profile
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark)](https://leetcode.com/u/ObserverUA/)
+[![Leetcode Stats](https://leetcard.ObserverUA/ObserverUA?theme=dark)](https://leetcode.com/u/ObserverUA/)
 
 
 ## 📫 Connect with Me
